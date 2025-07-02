@@ -1,7 +1,5 @@
 # Aincrad-Flux
 
----
-
 ## 🎯 Vision
 
 **Aincrad-Flux** est une organisation indépendante dédiée à la conception de systèmes numériques modulaires, scalables et sécurisés. Nous développons des solutions pensées pour l'intégration, l'automatisation et l'expérimentation dans des environnements techniques complexes.
@@ -63,22 +61,6 @@ Pour les étudiants Epitech souhaitant rejoindre Aincrad-Flux :
 3. S'engager sur la qualité de code et la documentation
 4. Participer activement aux code reviews
 
-## 📋 Projets Epitech
-
-### Projets Actifs
-*Nos projets Epitech avec infrastructure CI/CD complète*
-
-**En cours de migration vers Aincrad-Flux :**
-- Projets de deuxième année
-- Futur projets de troisième année-
-
-### Stack Technique Supportée
-- **C/C++** : CMake, Criterion, Valgrind, Static Analysis
-- **Python** : pytest, flake8, mypy, coverage
-- **JavaScript/Node.js** : Jest, ESLint, Prettier
-- **Java** : Maven/Gradle, JUnit, Spotbugs
-- **Web** : Cypress, Lighthouse, Security scanning
-- **Docker** : Multi-stage builds, security scanning
 
 ## 📖 Documentation
 
