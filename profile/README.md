@@ -1,7 +1,5 @@
 # Aincrad-Flux
 
-*Anciennement Aincrad-Core*
-
 ---
 
 ## 🎯 Vision
